@@ -4,5 +4,10 @@ git commit -m
 git config --global user.name ""
 git config --global user.email ""
 git checkout -b
+<<<<<<< HEAD
 git log--oneline
 git log--oneline--pretty
+=======
+git rm --cached
+
+>>>>>>> dev
